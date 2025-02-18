@@ -1,0 +1,17 @@
+############# English navigation ##############
+
+## main menu
+[[main]]
+name = "CV & Pub"
+url = "/cv/"
+weight = 1
+
+[[main]]
+name = "Research"
+url = "/research/"
+weight = 2
+
+[[main]]
+name = "Beyond Research"
+url = "/beyond/"
+weight = 3
